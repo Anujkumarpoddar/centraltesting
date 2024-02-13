@@ -1,3 +1,4 @@
 int a, int b
 a=100, b=200
 c=a+b
+adding code on 13/2/2024
